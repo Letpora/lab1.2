@@ -1,2 +1,2 @@
 # lab1.2
-#restaurant
+(restaurant)
